@@ -1,0 +1,23 @@
+body {
+background: linear-gradient(blue, white );
+
+}
+
+h1{
+
+    color: white;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+
+}
+
+.paragrafo {
+
+    font-size: 18px;
+    color: blanchedalmond;
+}
+
+p{
+    font-size: 22px;
+}
